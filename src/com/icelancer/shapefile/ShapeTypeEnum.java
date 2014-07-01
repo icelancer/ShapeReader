@@ -1,0 +1,18 @@
+package com.icelancer.shapefile;
+
+public enum ShapeTypeEnum {
+	NULL,
+	POINT,
+	POLYLINE,
+	POLYGON,
+	MULTIPOINT,
+	POINTZ,
+	POLYLINEZ,
+	POLYGONZ,
+	MULTIPOINTZ,
+	POINTM,
+	POLYLINEM,
+	POLYGONM,
+	MULTIPOINTM,
+	MULTIPATCH
+}
